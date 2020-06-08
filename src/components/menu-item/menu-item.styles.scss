@@ -18,7 +18,7 @@
         }
 
         & .content {
-            opacity: 0.9;
+            background-color: rgba(255,255,255,0.9);
         }
     }
 
@@ -49,7 +49,7 @@
         align-items: center;
         justify-content: center;
         border: 1px solid black;
-        background-color: rgba(255,255,255,0.8);
+        background-color: rgba(255,255,255,0.7);
         position: absolute;
 
         .title {
