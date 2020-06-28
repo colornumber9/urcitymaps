@@ -10,21 +10,21 @@ class Directory extends React.Component {
         sections: [
             {
                 title: 'usa',
-                imageUrl: 'https://lh3.googleusercontent.com/proxy/Os-94hWKsUYOomGlgnXH_b-e5u_XdbfOIdrJQJJr5bMEdyAYfDSIHmlSYXw9-Qpm66pral8DsLNxV3CFeE4YOicRvnzcYgtrBgBKQwua8TLmevfh4wjm1P6-OYg8RZsBnh9OXQcTiv9nW1XbS2AASxFEYw',
+                imageUrl: 'https://freight.cargo.site/t/original/i/41295a4c55b7ba7a1395fc1f78d3b49854ab6434427efdb35315216a7f8644aa/008.jpg',
                 id: 1,
                 linkUrl: 'usa'
             },
             {
-                title: 'canada',
-                imageUrl: 'https://britishcolumbia.com/images/maps/south-vancouver-island.gif',
-                id: 2,
-                linkUrl: 'canada'   
-            },
-            {
                 title: 'asia',
                 imageUrl: 'https://webmotriz.com.br/wp-content/new-friends-colony-map-i5.gif',
+                id: 2,
+                linkUrl: 'asia'   
+            },
+            {
+                title: 'canada',
+                imageUrl: 'https://britishcolumbia.com/images/maps/south-vancouver-island.gif',
                 id: 3,
-                linkUrl: 'asia'    
+                linkUrl: 'canada'    
             },
             {
                 title: 'middle east',
